@@ -1,0 +1,4 @@
+# May contains sensitive information
+.env
+/node_modules
+/db
